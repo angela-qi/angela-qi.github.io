@@ -1,0 +1,10 @@
+#about {
+    text-align: center;
+    background-image: url("../img/bg_nature.jpg");
+    height: 30em;
+}
+
+.heading {
+    padding-top: 50px;
+    font-weight: bold;
+}
